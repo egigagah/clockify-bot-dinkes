@@ -1,6 +1,9 @@
 # clockify-bot-dinkes
 bot for clockify
 
+## Requirements
+install node 16+ on ur machine
+
 ## add clockify credentials
 rename .env.example into .env
 and change the value with ur login credentials
