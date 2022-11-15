@@ -1,0 +1,22 @@
+- date: "1/11/2022"
+  tracker:
+    # example for multiple task in same date
+    - project: "Pengelolaan Super App Jaksehat Dinas Kesehatan Provinsi DKI Jakarta"
+      task: "Integrasi api web jaksehat"
+      tags: ["development", "OFFSITE"]
+      time_from: "07.30"
+      time_to: "15.11"
+
+    - project: "Pengelolaan Super App Jaksehat Dinas Kesehatan Provinsi DKI Jakarta"
+      task: "Integrasi api web jaksehat"
+      tags: ["development", "OFFSITE"]
+      time_from: "15.12"
+      time_to: "16.21"
+
+- date: "2/11/2022"
+  tracker:
+    - project: "Pengelolaan Super App Jaksehat Dinas Kesehatan Provinsi DKI Jakarta"
+      task: "Bug Fixing Integrasi web jaksehat"
+      tags: ["development", "OFFSITE"]
+      time_from: "07.10"
+      time_to: "15.40"

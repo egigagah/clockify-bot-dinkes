@@ -1,0 +1,21 @@
+{
+  "name": "clockify-bot",
+  "version": "0.0.1",
+  "description": "Bot for clockify auto fill",
+  "main": "index.js",
+  "author": "Egi gagah brilliant",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_OPTIONS='--experimental-specifier-resolution=node' node index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "dotenv": "^16.0.3",
+    "js-yaml": "^4.1.0",
+    "moment": "^2.29.4",
+    "ora": "^6.1.2",
+    "playwright": "^1.27.1"
+  }
+}
