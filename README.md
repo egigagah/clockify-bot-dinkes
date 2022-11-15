@@ -18,7 +18,7 @@ if node_modules not exist yet, u should run npm install. otherwise u can skip th
   $ npm install
 ```
 
-## installing dependecies
+## RUN BOT
 after credentials, data, and dependecies already setup. simply run this in your terminal to run the bot
 ```bash
   $ npm run start
