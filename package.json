@@ -8,7 +8,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "NODE_OPTIONS='--experimental-specifier-resolution=node' node index.js"
+    "start": "NODE_OPTIONS='--experimental-specifier-resolution=node' node index.js",
+    "make-file": "NODE_OPTIONS='--experimental-specifier-resolution=node' node make-file.js"
   },
   "dependencies": {
     "chalk": "^5.1.2",
@@ -16,6 +17,7 @@
     "js-yaml": "^4.1.0",
     "moment": "^2.29.4",
     "ora": "^6.1.2",
-    "playwright": "^1.27.1"
+    "playwright": "^1.27.1",
+    "yaml": "^2.1.3"
   }
 }
